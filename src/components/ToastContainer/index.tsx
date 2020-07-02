@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react';
+import React from 'react';
 import { useTransition } from 'react-spring';
 import { Container } from './styles';
 import { ToastMessage } from '../../hooks/toast';

@@ -1,6 +1,5 @@
-import styled, { keyframes } from 'styled-components';
+import styled from 'styled-components';
 import { shade } from 'polished';
-import signUpBackgroud from '../../assets/sign-up-background.png';
 
 export const Container = styled.div`
   > header {
